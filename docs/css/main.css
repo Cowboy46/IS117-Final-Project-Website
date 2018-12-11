@@ -109,11 +109,22 @@ body {
   min-height: 75rem;
 }
 
+.jumbotron {
+  background-image: url("../img/dns.jpg");
+  background-size: cover;
+}
 
+.display-4 {
+  font-size: 3rem;
+  font-weight: 300;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
 
-
-
-
+.border-black {
+  border: 1px solid black;
+}
 
 
 
